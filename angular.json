@@ -12,14 +12,14 @@
       "i18n": {
         "sourceLocale": "en-US",
         "locales": {
-          "fr": "src/locale/messages.fr.xlf"
+          "fr": "src/locale/fr/messages.xlf"
         }
       },
       "architect": {
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "localize": true,
+            "localize": false,
             "aot": true,
             "outputPath": "dist",
             "index": "src/index.html",
