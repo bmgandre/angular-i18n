@@ -13,7 +13,7 @@
                 <note from="description" priority="1">An introduction header for this sample</note>
                 <note from="meaning" priority="1">User welcome</note>
                 <target>
-  Hello i18n!
+  Olá i18n!
 </target>
             </trans-unit>
             <trans-unit datatype="html" id="ba0cc104d3d69bf669f97b8d96a4c5d8d9559aa3">
